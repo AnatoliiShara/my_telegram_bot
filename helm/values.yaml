@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   registry: "ghcr.io"
   repository: "anatoliishara/my-telegram-bot" # наприклад: "AnatoliiShara/my-first-telegram-bot"
-  tag: "v1.0.0-61c334f" # CI оновить на v1.0.0-<shortsha>
+  tag: "v1.0.0-441cf31" # CI оновить на v1.0.0-<shortsha>
   os: "linux"
   arch: "amd64"
   pullPolicy: IfNotPresent
